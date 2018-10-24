@@ -1,0 +1,12 @@
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\bin\Debug\Stun_Chat.exe.config
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\bin\Debug\Stun_Chat.exe
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\bin\Debug\Stun_Chat.pdb
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\bin\Debug\LumiSoft.Net.dll
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\bin\Debug\LumiSoft.Net.xml
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.csprojResolveAssemblyReference.cache
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.Form1.resources
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.Properties.Resources.resources
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.csproj.GenerateResource.Cache
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.csproj.CoreCompileInputs.cache
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.exe
+c:\users\ghostfreak837\source\repos\Stun_Chat\Stun_Chat\obj\Debug\Stun_Chat.pdb
